@@ -1,0 +1,78 @@
+{
+  "drinks": [
+    {
+      "id": "dirty martini",
+      "name": "Dirty Martini",
+      "description": " a cocktail made with gin or vodka, dry vermouth, and olive brine, giving it a salty twist.",
+      "recipe": "2 1/2 ounces gin or vodka,1/2 ounce dry vermouth, 1/2 ounce olive brine, Green olives for garnish",
+      "serve": "Chilled",
+      "item": "drink"
+    },
+    {
+      "id": "manhattan",
+      "name": "Manhattan",
+      "description": "classic cocktail made with whiskey, sweet vermouth, and bitters. It's typically served in a cocktail glass with a cherry garnish.",
+      "recipe": "2 oz bourbon or rye whiskey, 1 oz sweet vermouth, 2 dashes Angostura bitters, Maraschino cherry or orange twist for garnish",
+      "serve": "Chilled",
+      "item": ""
+    },
+    {
+      "id": "cosmopolitan",
+      "name": "Cosmopolitan",
+      "description": "a popular cocktail made with vodka, triple sec, cranberry juice, and a splash of lime juice. It's typically served in a martini glass and garnished with a twist of lime. The drink is known for its vibrant pink color and refreshing taste, with a perfect balance of sweetness and tartness.",
+      "recipe": "1 1/4 oz Vodka, 3/4oz triple sec, 3oz red cranberry juice, 1/2 lime, 1 orange twist",
+      "serve": "Chilled",
+      "item": ""
+    },
+    {
+      "id": "old fashion",
+      "name": "Old Fashion",
+      "description": " a classic whiskey cocktail made with sugar, bitters, whiskey, and a citrus twist.",
+      "recipe": "1 orange slice, 2 maraschino cherries, 2oz bourbon, 1/2oz simple syrup, 3 dashes bitters, 1 orange twist, 1 cherry flag",
+      "serve": "Over Rocks",
+      "item": "drink"
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "description": " a cocktail made with equal parts gin, Campari, and sweet vermouth, served over ice with an orange garnish.",
+      "recipe": "1oz Campari, 1oz sweet red vermouth, 1oz gin, 1 orange peel spiral",
+      "serve": "Over Rocks",
+      "item": "drink"
+    }
+  ],
+  "snacks": [
+    {
+      "id": "birria short rib",
+      "name": "Birria Short Rib",
+      "description": "12oz bone-in, colombian arepa, queso oaxaca, napales",
+      "recipe": "N/A",
+      "serve": "Hot",
+      "item": "snack"
+    },
+    {
+      "id": "duck breast ",
+      "name": "Duck Breast ",
+      "description": "parsnip, foie gras, duck confit squash blossom, black truffle sofrito",
+      "recipe": "N/A",
+      "serve": "Hot",
+      "item": "snack"
+    },
+    {
+      "id": "10oz westholme wagyu striploin",
+      "name": "10oz Westholme Wagyu Striploin",
+      "description": "Smokey merken spice, tomato beef jus, trumpet mushroom carpaccio, pomme souffle",
+      "recipe": "N/A",
+      "serve": "Hot",
+      "item": ""
+    },
+    {
+      "id": "kale and lime salad (ve)",
+      "name": "Kale And Lime Salad (Ve)",
+      "description": "endive, arugula, green apple, cranberries, pumpkin seed, cancha corn, lime vinaigrette",
+      "recipe": "N/A",
+      "serve": "Fresh",
+      "item": ""
+    }
+  ]
+}
